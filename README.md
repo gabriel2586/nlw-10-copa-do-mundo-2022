@@ -34,7 +34,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Calendário da copa do mundo mostra os jogos do Brasil, dia e hora de cada jogo da copa do mundo de 2022.
 você pode vizualizar ele pronto através desse link: https://gabriel2586.github.io/nlw-10-copa-do-mundo-2022/
 ## 🔖 Layout
- https://gabriel2586.github.io/nlw-10-copa-do-mundo-2022/
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/6nCrSxgJRmGlCTbEIem6hi/Calend%C3%A1rio-de-Jogos-(Community)?node-id=301%3A1812&t=or3ST6MdB0ODhj0j-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
